@@ -6,11 +6,3 @@ communicate, lead, and mentor my teammates. Prior to the Corps I learned Java th
 
 One of my favorite small projects was when I programmed a program that will calculate safe standoff for explosives under different conditions. This program saved time
 when planning for demolition training operations for my Marines. [💥](https://github.com/EvinRWatson/newCalc)
-
-## Current Project 
-What I am working on right now is a inventory and maintenance management software called [Dominion Provisioning](https://github.com/EvinRWatson/DominionProvisioning).
-The inspiration for this project was to be a more intuitive and easy to use version of the Global Combat Support System, the logistics software used by the Army and
-Marine Corps. 🤖
-
-### Fun Fact 
-The human brain takes in 11 million bits of information every second but is aware of only 40! 🤯
