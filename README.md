@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Atlanta, GA
 * ✉️  You can contact me at [evinwatson@outlook.com](mailto:evinwatson@outlook.com)
-* 🚀  I'm currently working on [XplBackupManager](http://https://github.com/EvinRWatson/XplBackupManager)
+* 🚀  I'm currently working on [XplBackupManager](https://github.com/EvinRWatson/XplBackupManager)
 
 ### About Me! 😎
 
