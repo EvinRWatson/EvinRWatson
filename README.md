@@ -1,7 +1,7 @@
 Greetings 👋 My name is Evin Watson
 ============================
 
-* 🚀  I'm currently working on [ReSO-Bot](https://github.com/EvinRWatson/ReSO-Bot) and [XplBackupManager](https://github.com/EvinRWatson/XplBackupManager)
+* 🚀  I'm currently working on [montr](https://github.com/EvinRWatson/montr) and [ReSO-Bot](https://github.com/EvinRWatson/ReSO-Bot)!
 * 💼 You can find my work account [here](https://github.com/EvinWatson)
 
 ### Skills
