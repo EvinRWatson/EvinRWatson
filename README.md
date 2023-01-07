@@ -16,4 +16,5 @@ Greetings 👋 My name is Evin Watson
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="36" height="36" alt="Docker" /></a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://swimburger.net/media/ppnn3pcl/azure.png" width="36" height="36" alt="Azure" /></a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.seekpng.com/png/full/328-3284428_copyright-2017-facebook-inc-aws-logo.png" width="42" height="36" alt="Azure" /></a>
 </p>
